@@ -1,0 +1,226 @@
+id_doc,ano,presidente,termo_coocorrente,frequencia
+DISCURSO_1985_SARNEY,1985,José Sarney,brasil,2
+DISCURSO_1985_SARNEY,1985,José Sarney,mudou,1
+DISCURSO_1985_SARNEY,1985,José Sarney,respira,1
+DISCURSO_1985_SARNEY,1985,José Sarney,volta,1
+DISCURSO_1985_SARNEY,1985,José Sarney,sonhar,1
+DISCURSO_1985_SARNEY,1985,José Sarney,passam,1
+DISCURSO_1985_SARNEY,1985,José Sarney,cinco,1
+DISCURSO_1985_SARNEY,1985,José Sarney,pontos,1
+DISCURSO_1985_SARNEY,1985,José Sarney,fundamentais,1
+DISCURSO_1985_SARNEY,1985,José Sarney,desenvolvimento,1
+DISCURSO_1985_SARNEY,1985,José Sarney,opção,1
+DISCURSO_1985_SARNEY,1985,José Sarney,social,3
+DISCURSO_1985_SARNEY,1985,José Sarney,identidade,1
+DISCURSO_1985_SARNEY,1985,José Sarney,cultural,1
+DISCURSO_1985_SARNEY,1985,José Sarney,criou,1
+DISCURSO_1985_SARNEY,1985,José Sarney,servir,2
+DISCURSO_1985_SARNEY,1985,José Sarney,legado,2
+DISCURSO_1985_SARNEY,1985,José Sarney,deus,1
+DISCURSO_1985_SARNEY,1985,José Sarney,dão,1
+DISCURSO_1985_SARNEY,1985,José Sarney,ordem,1
+DISCURSO_1985_SARNEY,1985,José Sarney,exercício,2
+DISCURSO_1985_SARNEY,1985,José Sarney,presidente,1
+DISCURSO_1985_SARNEY,1985,José Sarney,será,1
+DISCURSO_1985_SARNEY,1985,José Sarney,escravo,1
+DISCURSO_1985_SARNEY,1985,José Sarney,limite,1
+DISCURSO_1985_SARNEY,1985,José Sarney,outros,1
+DISCURSO_1985_SARNEY,1985,José Sarney,intimidam,1
+DISCURSO_1985_SARNEY,1985,José Sarney,facções,1
+DISCURSO_1985_SARNEY,1985,José Sarney,grupos,1
+DISCURSO_1985_SARNEY,1985,José Sarney,implica,1
+DISCURSO_1985_SARNEY,1985,José Sarney,compromisso,1
+DISCURSO_1985_SARNEY,1985,José Sarney,fortalecer,1
+DISCURSO_1985_SARNEY,1985,José Sarney,fundamental,1
+DISCURSO_1985_SARNEY,1985,José Sarney,mandato,1
+DISCURSO_1985_SARNEY,1985,José Sarney,esgota,1
+DISCURSO_1985_SARNEY,1985,José Sarney,vontade,1
+DISCURSO_1985_SARNEY,1985,José Sarney,direitos,1
+DISCURSO_1985_SARNEY,1985,José Sarney,sociais,1
+DISCURSO_1985_SARNEY,1985,José Sarney,permita,1
+DISCURSO_1985_SARNEY,1985,José Sarney,morte,1
+DISCURSO_1985_SARNEY,1985,José Sarney,ausência,1
+DISCURSO_1985_SARNEY,1985,José Sarney,trabalho,1
+DISCURSO_1985_SARNEY,1985,José Sarney,enfim,1
+DISCURSO_1985_SARNEY,1985,José Sarney,vida,1
+DISCURSO_1985_SARNEY,1985,José Sarney,feliz,1
+DISCURSO_1985_SARNEY,1985,José Sarney,integral,2
+DISCURSO_1985_SARNEY,1985,José Sarney,indissociáveis,2
+DISCURSO_1985_SARNEY,1985,José Sarney,política,4
+DISCURSO_1985_SARNEY,1985,José Sarney,econômica,3
+DISCURSO_1985_SARNEY,1985,José Sarney,sabem,1
+DISCURSO_1985_SARNEY,1985,José Sarney,morreu,1
+DISCURSO_1985_SARNEY,1985,José Sarney,existe,4
+DISCURSO_1985_SARNEY,1985,José Sarney,servidão,2
+DISCURSO_1985_SARNEY,1985,José Sarney,querer,3
+DISCURSO_1985_SARNEY,1985,José Sarney,garantir,1
+DISCURSO_1985_SARNEY,1985,José Sarney,poder,1
+DISCURSO_1985_SARNEY,1985,José Sarney,realidade,1
+DISCURSO_1985_SARNEY,1985,José Sarney,história,1
+DISCURSO_1985_SARNEY,1985,José Sarney,convivendo,1
+DISCURSO_1985_SARNEY,1985,José Sarney,injustiça,1
+DISCURSO_1985_SARNEY,1985,José Sarney,resultado,1
+DISCURSO_1985_SARNEY,1985,José Sarney,causa,1
+DISCURSO_1985_SARNEY,1985,José Sarney,preciso,1
+DISCURSO_1985_SARNEY,1985,José Sarney,apoiar,1
+DISCURSO_1985_SARNEY,1985,José Sarney,livro,1
+DISCURSO_1985_SARNEY,1985,José Sarney,quer,1
+DISCURSO_1985_SARNEY,1985,José Sarney,fruir,1
+DISCURSO_1985_SARNEY,1985,José Sarney,nação,1
+DISCURSO_1985_SARNEY,1985,José Sarney,faz,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,parte,2
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,penhor,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,evidência,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,democracia,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,eleição,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,retrata,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,confirma,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,cívicas,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,espero,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,partidos,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,tradição,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,direito,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,justiça,2
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,procurando,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,vão,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,assomando,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,brasil,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,maiores,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,indivíduo,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,convivência,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,republicana,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,diálogo,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,entendida,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,dinâmica,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,social,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,esperança,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,completar,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,política,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,reconquistada,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,transição,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,ampla,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,efetiva,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,econômica,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,privatização,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,deve,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,direitos,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,humanos,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,cultura,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,tendências,1
+DISCURSO_1990_COLLOR,1990,Fernando Collor de Mello,universais,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,crescimento,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,sacrificaram,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,trouxeram,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,progresso,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,poucos,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,dia,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,desenvolvimento,4
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,justiça,4
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,andariam,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,juntos,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,precioso,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,povo,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,pacificamente,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,tranquilidade,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,apesar,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,aprenderam,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,valor,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,perdê,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,democracia,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,ceder,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,milímetro,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,quebrar,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,contratos,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,lesar,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,nação,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,temos,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,volta,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,portanto,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,teremos,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,falta,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,tempo,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,restauramos,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,democráticas,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,iniciamos,1
+DISCURSO_1995_FHC,1995,Fernando Henrique Cardoso,reforma,1
+DISCURSO_1999_FHC,1999,Fernando Henrique Cardoso,país,1
+DISCURSO_1999_FHC,1999,Fernando Henrique Cardoso,desfruta,1
+DISCURSO_1999_FHC,1999,Fernando Henrique Cardoso,plena,1
+DISCURSO_1999_FHC,1999,Fernando Henrique Cardoso,opinião,1
+DISCURSO_1999_FHC,1999,Fernando Henrique Cardoso,imprensa,1
+DISCURSO_2011_DILMA,2011,Dilma Rousseff,moderna,1
+DISCURSO_2011_DILMA,2011,Dilma Rousseff,plena,3
+DISCURSO_2011_DILMA,2011,Dilma Rousseff,compromisso,1
+DISCURSO_2011_DILMA,2011,Dilma Rousseff,social,1
+DISCURSO_2011_DILMA,2011,Dilma Rousseff,política,1
+DISCURSO_2011_DILMA,2011,Dilma Rousseff,criatividade,1
+DISCURSO_2011_DILMA,2011,Dilma Rousseff,queridos,1
+DISCURSO_2011_DILMA,2011,Dilma Rousseff,brasileiros,1
+DISCURSO_2011_DILMA,2011,Dilma Rousseff,garantia,1
+DISCURSO_2011_DILMA,2011,Dilma Rousseff,individuais,2
+DISCURSO_2011_DILMA,2011,Dilma Rousseff,culto,3
+DISCURSO_2011_DILMA,2011,Dilma Rousseff,religião,2
+DISCURSO_2011_DILMA,2011,Dilma Rousseff,imprensa,1
+DISCURSO_2011_DILMA,2011,Dilma Rousseff,opinião,1
+DISCURSO_2015_DILMA,2015,Dilma Rousseff,constituição,1
+DISCURSO_2015_DILMA,2015,Dilma Rousseff,leis,1
+DISCURSO_2015_DILMA,2015,Dilma Rousseff,individuais,1
+DISCURSO_2015_DILMA,2015,Dilma Rousseff,direitos,4
+DISCURSO_2015_DILMA,2015,Dilma Rousseff,democráticos,2
+DISCURSO_2015_DILMA,2015,Dilma Rousseff,ampla,1
+DISCURSO_2015_DILMA,2015,Dilma Rousseff,expressão,1
+DISCURSO_2015_DILMA,2015,Dilma Rousseff,mesmos,1
+DISCURSO_2015_DILMA,2015,Dilma Rousseff,informação,1
+DISCURSO_2015_DILMA,2015,Dilma Rousseff,opinião,1
+DISCURSO_2016_TEMER,2016,Michel Temer,desvios,1
+DISCURSO_2016_TEMER,2016,Michel Temer,nesse,1
+DISCURSO_2016_TEMER,2016,Michel Temer,contexto,1
+DISCURSO_2016_TEMER,2016,Michel Temer,tomo,1
+DISCURSO_2016_TEMER,2016,Michel Temer,dizer,1
+DISCURSO_2016_TEMER,2016,Michel Temer,lava,1
+DISCURSO_2019_BOLSONARO,2019,Jair Bolsonaro,pátria,1
+DISCURSO_2019_BOLSONARO,2019,Jair Bolsonaro,ordem,1
+DISCURSO_2019_BOLSONARO,2019,Jair Bolsonaro,tentaram,1
+DISCURSO_2019_BOLSONARO,2019,Jair Bolsonaro,pôr,1
+DISCURSO_2019_BOLSONARO,2019,Jair Bolsonaro,fim,1
+DISCURSO_2019_BOLSONARO,2019,Jair Bolsonaro,minha,1
+DISCURSO_2019_BOLSONARO,2019,Jair Bolsonaro,ruas,1
+DISCURSO_2019_BOLSONARO,2019,Jair Bolsonaro,preservar,1
+DISCURSO_2019_BOLSONARO,2019,Jair Bolsonaro,democracia,1
+DISCURSO_2019_BOLSONARO,2019,Jair Bolsonaro,reafirmo,1
+DISCURSO_2019_BOLSONARO,2019,Jair Bolsonaro,meu,1
+DISCURSO_2019_BOLSONARO,2019,Jair Bolsonaro,compromisso,1
+DISCURSO_2019_BOLSONARO,2019,Jair Bolsonaro,militância,1
+DISCURSO_2019_BOLSONARO,2019,Jair Bolsonaro,política,1
+DISCURSO_2019_BOLSONARO,2019,Jair Bolsonaro,sonham,1
+DISCURSO_2019_BOLSONARO,2019,Jair Bolsonaro,vir,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,violentas,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,ameaças,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,voto,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,abjeta,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,estado,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,nome,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,supostas,2
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,individuais,2
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,defendemos,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,expressão,2
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,manifestação,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,organização,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,eles,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,pregam,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,nova,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,legislação,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,trabalhista,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,garantir,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,empreender,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,lado,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,sim,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,prosperidade,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,terra,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,oportunidade,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,criar,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,plantar,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,democrática,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,pode,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,temer,1
+DISCURSO_2023_LULA,2023,Luiz Inácio Lula da Silva,criação,1
